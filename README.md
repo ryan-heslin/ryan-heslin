@@ -20,7 +20,7 @@ My GitHub activity gives a good overview of my interests. A
 few contributions to projects I liked (I should do more of this).
 Some [R projects](https://github.com/ryan-heslin/RegLesson)
 that harness the language's data manipulation capabilities.
-An [Advent of Code](https://github.com/ryan-heslin/AoC2021) repository, for practicing pure programming. And,
+An [Advent of Code](https://github.com/ryan-heslin/AoC2022) repository, for practicing pure programming. And,
 inevitably, my [personal dotfiles](https://github.com/ryan-heslin/dotfiles), an ever-growing set of configuration
 files centered on my [Neovim](https://neovim.io/) setup.
 
